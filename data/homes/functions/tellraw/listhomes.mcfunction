@@ -1,0 +1,1 @@
+tellraw @s [{"nbt":"data.homes.color0","storage":"entitydb:","interpret":true},"To view a list of your homes, type ",{"text":"!listhomes","underlined":true,"clickEvent":{"action":"run_command","value":"!listhomes"}}]
